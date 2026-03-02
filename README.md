@@ -105,7 +105,7 @@ Which restaurants are most specialised in their cuisine type?
 - **High-Density Restaurant Zones**: Identify areas with market saturation opportunities
 - **Cuisine Trend Analysis**: Regional culinary preferences and emerging trends
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 food-delivery-analytics/
